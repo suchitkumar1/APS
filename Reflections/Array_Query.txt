@@ -1,0 +1,19 @@
+=>Look up Table Technique:
+
+Application: Maintains a look up table of size n*n which stores the Sum/Max/Min numbers.
+Fetch_Efficiency: O(1)
+Time_Efficiency: O(N^2)
+Space_Efficiency: O(N^2)
+
+
+=>Square Root Decomposition Technique:
+
+Application: Maintains a table by dividing the array into vn sub-blocks to minimise access time and the index of the smallest element of that range is stored.
+Fetch_Efficiency: O(vN)
+Time_Efficiency: O(N)
+Space_Efficiency: O(N)
+
+=>Segment Tree
+
+Application: This is used only when the data is static. It is a strictly binary tree. Uses bottom-up approach to construct the table.
+Time_Efficiency: O(log(N))

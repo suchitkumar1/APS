@@ -1,0 +1,17 @@
+=>The Binomial Co-efficients can be calculated using the following 3 methods:
+Method_1: Recursion
+Method_2: Dynamic Programming (2-D Array)
+Method_3: Dynamic Programming (1-D Array)
+
+=>Recursion 
+This involves calling back the function again for all values.
+Diadvantages:
+More stack space.
+More Processing time.
+
+=>2D array DP
+The values are computed and stored in a 2d array. So there is no need to calculate it all again for each of the value.
+
+=>1D Array Dp
+The values are computed each time from the previous values. It overites the existing array and gets the new values by adding 
+to the previous values.
