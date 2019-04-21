@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1549595265 source:c:\users\suchi\documents\sdjsd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

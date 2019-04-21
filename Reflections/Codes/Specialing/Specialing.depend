@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1549621891 source:e:\aps\specialing\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<string.h>
+
