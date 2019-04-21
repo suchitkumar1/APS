@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1550294792 source:e:\aps\bitmanip\main.cpp
+	<iostream>
+	<math.h>
+	<limits.h>
+

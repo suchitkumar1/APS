@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1549625067 source:e:\aps\minimumjars\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+
+1549804844 source:e:\aps\minimumreplacement\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<array>
+

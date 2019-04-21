@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549962814 source:e:\aps\bionomialcoef\main.cpp
+	<iostream>
+	<string.h>
+
